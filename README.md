@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Idowu Comfort 👋
 
-<!--
-**ifeoluwa025/Ifeoluwa025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Technology (B.Tech.) in Pure and Applied Mathematics from LAUTECH.
 
-Here are some ideas to get you started:
+💻 Aspiring Computer Scientist and Data Scientist.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Nigeria
+
+## About Me
+
+- 🎓 B.Tech. in Pure and Applied Mathematics (2023)
+
+- 👩‍🏫 Former Class Teacher (NYSC)
+
+- ✈️ Industrial Training at Alakia Airport, Ibadan
+
+- 🌱 Currently learning Python, Git and GitHub
+
+- 🎯 Goal: Study for a Master's degree in Computer Science in the UK
+
+## Skills
+
+- Mathematics
+
+- Problem Solving
+
+- Microsoft Office
+
+- Python (Learning)
+
+- Git & GitHub (Learning)
+
+## Connect with Me
+
+📧 Email: your-email@example.com
+
+⭐ Thanks for visiting my profile!
